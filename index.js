@@ -1,4 +1,4 @@
-const main = document.querySelector('main#main');
+let main = document.querySelector('main#main');
 main.remove();
 
-const newHeader = document.querySelector('h1#victory');
+let newHeader = document.querySelector('h1#victory');
